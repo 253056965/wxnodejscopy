@@ -1,0 +1,3 @@
+/Users/wuyake/Documents/tools/src/util/WxGame.ts
+/Users/wuyake/Documents/tools/src/util/FileUtil.ts
+/Users/wuyake/Documents/tools/src/App.ts
